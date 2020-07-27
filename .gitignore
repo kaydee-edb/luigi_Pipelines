@@ -142,3 +142,11 @@ cython_debug/
 
 #remove .csv files
 *.csv
+
+#remove .txt files
+*.txt
+
+#remove ipynb files
+/Notebooks
+
+/output
