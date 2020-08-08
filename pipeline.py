@@ -1,5 +1,3 @@
-""" Loblaws Solutions Engineering take home problem """
-
 #Import core libraries
 import time
 import os
